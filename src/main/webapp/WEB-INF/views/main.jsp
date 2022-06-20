@@ -12,8 +12,8 @@
 	<p>commit 하기 전 상태의 파일을 삭제하는 기능이다.</p>
 	
 	<h3>commit 한 내용을 취소하고 싶을 경우</h3>
-	<p1>1. 브런치 초기화</p1>
-	<p1>2. reverse commit</p1>
+	<p1>1. 브런치 초기화 - 특정 지점으로 브랜치를 초기화 한다. (이전 브랜치를 없앤다.)</p1>
+	<p>2. reverse commit</p>
 </body>
 <script></script>
 </html>
